@@ -1,7 +1,5 @@
 require "pry"
 
-#Deli wants to keep track of their que(list of costumers = creating an array)
-#beginning of the the que is empty
 
 katz_deli = []
 
